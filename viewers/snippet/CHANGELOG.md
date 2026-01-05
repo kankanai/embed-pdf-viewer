@@ -1,5 +1,11 @@
 # @embedpdf/snippet
 
+## 2.1.2
+
+### Patch Changes
+
+- [#369](https://github.com/embedpdf/embed-pdf-viewer/pull/369) by [@bobsingor](https://github.com/bobsingor) – Add missing translations for redaction delete and commit commands (`redaction.deleteSelected` and `redaction.commitSelected`) in all supported languages (English, German, Dutch, French, Spanish).
+
 ## 2.1.1
 
 ## 2.1.0
